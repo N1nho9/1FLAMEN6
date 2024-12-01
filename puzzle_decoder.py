@@ -15,7 +15,7 @@ key = "011010"
 
 # 4-bit Flame encoded Chunks
 # short (0) or tall (1)
-# yellow (0) or red (1) border
+# yellow (0) download or red (1) border
 # narrow (0) or wide (1)
 # purple (0) or green (1) interior
 
@@ -42,7 +42,7 @@ flames = [
 	"1110",
 	"1110",
 	"0001",
-	"1011",
+	"1011",Download
 	"1101",
 	"0011",
 	"1110",
@@ -205,3 +205,6 @@ for i,c in enumerate(data):
 decoded_str = string_decode(results)
 
 print(decoded_str)
+0⁰.00000
+0.9.hex
+9999356128844100
